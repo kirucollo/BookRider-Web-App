@@ -110,6 +110,8 @@ The System Administrator Dashboard supports review and approval of library and d
 
 https://github.com/user-attachments/assets/204bd395-3648-4571-bfbe-bb73996f2ade
 
+---
+
 # 🤝 Collaboration
 
 This project was developed as part of a **team collaboration**, with multiple contributors working together to design and implement the complete BookRider system.  
