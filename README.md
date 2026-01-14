@@ -14,7 +14,7 @@
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Landing Page
 
 ![Landing Page](docs/landing-page.png)
 
