@@ -3,16 +3,12 @@
 ## 🧭 Overview
 **BookRider** is a modern web application for a library book delivery platform. It provides intuitive, high-performance interfaces for librarians, library administrators, and system administrators to manage books, readers, and delivery-based lending workflows.
 
----
-
 ## 🧰 Tech Stack
 
 - 🟦 **TypeScript**
 - ⚛️ **React**
 - ⚡ **Vite**
 - 🎨 **Tailwind CSS**
-
----
 
 ## 🖼️ Landing Page
 
@@ -33,8 +29,6 @@ The Librarian Dashboard delivers a smooth and intuitive experience built around 
 - 📦 Book returns via delivery or in-person
 - 🔔 Toast notifications for newly created reader orders
 
----
-
 ### 🛒 Ordering Books
 
 The order management screen presents **ongoing**, **accepted**, and **completed** orders in a single, unified view.  
@@ -44,8 +38,6 @@ Librarians can verify and accept orders, hand off books to the assigned driver, 
 
 https://github.com/user-attachments/assets/eb88f339-6718-4992-8cf0-f23c6835dc41
 
----
-
 ### 🔄 Book Returns
 
 In addition to in-person returns, delivery-based returns allow librarians to verify the driver’s ID, confirm the returned books, and finalize the return quickly and efficiently.
@@ -53,8 +45,6 @@ In addition to in-person returns, delivery-based returns allow librarians to ver
 **Returns Demo**
 
 https://github.com/user-attachments/assets/2412e0eb-d962-4ac0-92de-59879fff3f1e
-
----
 
 ### 📖 Library Book Management
 
@@ -66,8 +56,6 @@ Books can be added or removed using a clean, searchable interface designed for s
 **Add & Remove Books Demo**
 
 https://github.com/user-attachments/assets/4878a788-0dca-45aa-95ed-0868ab0cac7b
-
----
 
 ### 👤 Reader Management
 
