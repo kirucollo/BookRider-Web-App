@@ -1,4 +1,4 @@
-# 📚 BookRider Web Application — v1.0
+# 📚 BookRider Web Application - v1.1.0
 
 ## 🧭 Overview
 **BookRider** is a modern web application for a library book delivery platform. It provides intuitive, high-performance interfaces for librarians, library administrators, and system administrators to manage books, readers, and delivery-based lending workflows.
@@ -109,3 +109,12 @@ The System Administrator Dashboard supports review and approval of library and d
 **Submission Review Demo**
 
 https://github.com/user-attachments/assets/204bd395-3648-4571-bfbe-bb73996f2ade
+
+## 🤝 Collaboration
+
+This project was developed as part of a **team collaboration**, where multiple contributors worked together to design and implement the complete BookRider system.  
+
+**My contributions included** contributing to the **frontend development** of the web app, designing intuitive dashboards, and optimizing the user experience for librarians, library administrators and system administrators.  
+
+For the full project, including all features and contributions, see the **main repository**: [BookRider Main Repo](https://github.com/PiCiU1221/BookRider).
+
