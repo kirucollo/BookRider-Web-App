@@ -110,11 +110,20 @@ The System Administrator Dashboard supports review and approval of library and d
 
 https://github.com/user-attachments/assets/204bd395-3648-4571-bfbe-bb73996f2ade
 
-## 🤝 Collaboration
+# 🤝 Collaboration
 
-This project was developed as part of a **team collaboration**, where multiple contributors worked together to design and implement the complete BookRider system.  
+This project was developed as part of a **team collaboration**, with multiple contributors working together to design and implement the complete BookRider system.  
+We coordinated via **GitHub**, code reviews, and shared design discussions 🗨️ to maintain a smooth and efficient development workflow.
 
-**My contributions included** contributing to the **frontend development** of the web app, designing intuitive dashboards, and optimizing the user experience for librarians, library administrators and system administrators.  
+**My contributions** included:
+- ⚛️ Implementing the **frontend dashboards** for librarians, administrators, and system administrators
+- 🔍 Optimizing **book search and order management UI** with features like lazy loading and infinite scrolling
+- 📱 Ensuring a **responsive and intuitive user experience** across the application
+- 🎨 Establishing the **design philosophy and color scheme** for all BookRider apps
+
+Together, our team delivered a **high-performance, user-friendly platform** that includes a web application 💻, a robust backend 🛠️, and two mobile apps 📲 for readers and drivers, streamlining library book management and on-demand delivery.
 
 For the full project, including all features and contributions, see the **main repository**: [BookRider Main Repo](https://github.com/PiCiU1221/BookRider).
+
+
 
